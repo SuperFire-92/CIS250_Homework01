@@ -1,0 +1,15 @@
+123-48-9566,Bob,Smith,C,Monroe,MI,35,M,1234,Computer Science,A,13,999-888-0001
+432-09-6123,Nancy,Williams,F,Toledo,OH,65,F,3333,Marketing,C,1,232-812-0987
+777-09-6654,Barb,Rose,Z,Flat Rock,MI,33,F,2222,Accounting,A,3,333-444-5555
+111-22-3333,Phil,Ross,G,Woodhaven,MI,21,M,1234,Computer Science,A,13,999-888-0001
+124-54-9999,Shannon,Thomas,L,Monroe,MI,23,F,5454,Human Resources,B,3,124-999-0000
+199-54-0000,Tracy,Moore,L,Lambertville,MI,55,F,3333,Marketing,C,1,435-999-8709
+333-44-5555,Gabriel,Smith,C,South Rockwood,MI,1,M,1234,Computer Science,A,13,999-888-0001
+111-22-3331,Teri,Thomas,T,Toldeo,OH,53,F,2222,Accounting,A,3,333-444-5555
+908-87-6521,Jacob,Moore,S,Lambertville,MI,27,M,5454,Human Resources,B,3,124-999-0000
+665-54-9901,Rachel,Abe,O,Detroit,MI,77,F,1234,Computer Science,A,13,999-888-0001
+155-44-4455,Billy,Joel,L,Ann Arbor,MI,55,M,5454,Human Resources,B,5,124-999-0000
+444-99-1122,Denzel,Washington,D,Sylvania,OH,60,M,1234,Computer Science,A,13,999-888-0001
+777-78-8908,Martha,Stewart,H,Flat Rock,MI,59,F,5454,Human Resources,B,3,124-999-0000
+822-12-1231,Hannah,Moore,I,Lambertville,MI,22,F,3333,Marketing,C,1,232-812-0987
+897-34-6565,Donald,Glover,L,Detroit,MI,27,M,5454,Human Resources,B,3,124-999-0000

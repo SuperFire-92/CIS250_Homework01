@@ -1,0 +1,12 @@
+﻿  Homework01_Program1.cpp
+E:\College\CIS250\Homework Assignments\Homework01\CIS250_Homework01_NicolaasDyk\Homework01_Program1\Homework01_Program1\Homework01_Program1.cpp(175,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\College\CIS250\Homework Assignments\Homework01\CIS250_Homework01_NicolaasDyk\Homework01_Program1\Homework01_Program1\Homework01_Program1.cpp(183,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\College\CIS250\Homework Assignments\Homework01\CIS250_Homework01_NicolaasDyk\Homework01_Program1\Homework01_Program1\Homework01_Program1.cpp(188,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\College\CIS250\Homework Assignments\Homework01\CIS250_Homework01_NicolaasDyk\Homework01_Program1\Homework01_Program1\Homework01_Program1.cpp(198,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\College\CIS250\Homework Assignments\Homework01\CIS250_Homework01_NicolaasDyk\Homework01_Program1\Homework01_Program1\Homework01_Program1.cpp(203,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\College\CIS250\Homework Assignments\Homework01\CIS250_Homework01_NicolaasDyk\Homework01_Program1\Homework01_Program1\Homework01_Program1.cpp(208,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\College\CIS250\Homework Assignments\Homework01\CIS250_Homework01_NicolaasDyk\Homework01_Program1\Homework01_Program1\Homework01_Program1.cpp(217,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\College\CIS250\Homework Assignments\Homework01\CIS250_Homework01_NicolaasDyk\Homework01_Program1\Homework01_Program1\Homework01_Program1.cpp(222,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\College\CIS250\Homework Assignments\Homework01\CIS250_Homework01_NicolaasDyk\Homework01_Program1\Homework01_Program1\Homework01_Program1.cpp(231,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\College\CIS250\Homework Assignments\Homework01\CIS250_Homework01_NicolaasDyk\Homework01_Program1\Homework01_Program1\Homework01_Program1.cpp(421,80): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+  Homework01_Program1.vcxproj -> E:\College\CIS250\Homework Assignments\Homework01\CIS250_Homework01_NicolaasDyk\Homework01_Program1\x64\Debug\Homework01_Program1.exe
